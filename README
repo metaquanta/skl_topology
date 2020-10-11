@@ -1,3 +1,4 @@
 topology_sklrt286_skl_i2s.conf: https://git.alsa-project.org/?p=alsa-topology-conf.git;f=topology/sklrt286/skl_i2s.conf
 dfw_sst.bin.sklnau8825adi: https://github.com/GalliumOS/galliumos-skylake/blob/master/lib/firmware/dfw_sst.bin.sklnau8825adi
 dfw_sst.bin.sklnau8825max: https://github.com/GalliumOS/galliumos-skylake/blob/master/lib/firmware/dfw_sst.bin.sklnau8825max
+benpye_2509d1dd0ebcedcc55b761b9c824a6b1.conf: https://gist.github.com/benpye/2509d1dd0ebcedcc55b761b9c824a6b1
